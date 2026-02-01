@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.negative {
+  background-color: black;
+  color: white;
+
+}
+.bee {
+  background-color: yellow;
+  color: black;
+}
+.negative,
+.bee {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
